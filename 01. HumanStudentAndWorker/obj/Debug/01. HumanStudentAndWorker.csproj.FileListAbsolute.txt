@@ -1,0 +1,6 @@
+D:\C#\InheritanceAndAbstractionHomework\01. HumanStudentAndWorker\bin\Debug\_01.HumanStudentAndWorker.exe.config
+D:\C#\InheritanceAndAbstractionHomework\01. HumanStudentAndWorker\bin\Debug\_01.HumanStudentAndWorker.exe
+D:\C#\InheritanceAndAbstractionHomework\01. HumanStudentAndWorker\bin\Debug\_01.HumanStudentAndWorker.pdb
+D:\C#\InheritanceAndAbstractionHomework\01. HumanStudentAndWorker\obj\Debug\01. HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+D:\C#\InheritanceAndAbstractionHomework\01. HumanStudentAndWorker\obj\Debug\_01.HumanStudentAndWorker.exe
+D:\C#\InheritanceAndAbstractionHomework\01. HumanStudentAndWorker\obj\Debug\_01.HumanStudentAndWorker.pdb

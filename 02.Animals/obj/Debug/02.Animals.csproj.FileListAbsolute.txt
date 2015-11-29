@@ -1,0 +1,6 @@
+D:\C#\InheritanceAndAbstractionHomework\02.Animals\bin\Debug\02.Animals.exe.config
+D:\C#\InheritanceAndAbstractionHomework\02.Animals\bin\Debug\02.Animals.exe
+D:\C#\InheritanceAndAbstractionHomework\02.Animals\bin\Debug\02.Animals.pdb
+D:\C#\InheritanceAndAbstractionHomework\02.Animals\obj\Debug\02.Animals.exe
+D:\C#\InheritanceAndAbstractionHomework\02.Animals\obj\Debug\02.Animals.pdb
+D:\C#\InheritanceAndAbstractionHomework\02.Animals\obj\Debug\02.Animals.csprojResolveAssemblyReference.cache
